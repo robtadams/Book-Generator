@@ -1,0 +1,402 @@
+Dwarves
+Elves
+Halflings
+Humans
+Dragonborn
+Gnomes
+Half-Elves
+Half-Orcs
+Tieflings
+Barbarians
+Bards
+Clerics
+Druids
+Fighters
+Monks
+Paladins
+Rangers
+Rogues
+Sorcerers
+Warlocks
+Wizards
+Backgrounds
+Inspirations
+Characters
+Equipment
+Wealth
+Armor
+Shields
+Weapons
+Adventures
+Gear
+Tools
+Mounts
+Vehicles
+Trade
+Expenses
+Trinkets
+Feats
+Abilities
+Advantages
+Disadvantages
+Proficiencies
+Time
+Movement
+Envrionments
+Rest
+Order
+Combat
+Attacks
+Cover
+Damage
+Healing
+Spells
+Magic
+Auril
+Azuth
+Bane
+Beshaba
+Bhaal
+Chauntea
+Cyric
+Deneir
+Eldath
+Gond
+Helm
+Ilmater
+Kelemvor
+Lathander
+Leira
+Lliira
+Loviator
+Malar
+Mask
+Lielikki
+Milil
+Myrkul
+Mystra
+Oghma
+Savras
+Selune
+Shar
+Silvanus
+Sune
+Talona
+Talos
+Tempus
+Torm
+Tymora
+Tyr
+Umberlee
+Waukeen
+Beory
+Boccob
+Celestian
+Ehlonna
+Erythnul
+Fharlanghn
+Heironeous
+Hextor
+Kord
+Incabulos
+Istus
+Iuz
+Nerull
+Obad-Hai
+Olidammara
+Pelor
+Pholtus
+Ralishaz
+Rao
+St. Cuthbert
+Tharizdun
+Trithereon
+Ulaa
+Vecna
+Wee Jas
+Bahamut
+Blidoolpoolp
+Corellon Larethian
+Deep Sashelas
+Eadro
+Garl Glittergold
+Grolantor
+Gruumsh
+Hruggek
+Kurtulmak
+Laogzed
+Lolth
+Maglubiyet
+Moradin
+Rillfane Rallathil
+Sehanine Moonbow
+Sekolah
+Semuanya
+Skerrit
+Skoraeus Stonebones
+Surtur
+Thrym
+Tiamat
+Yondalla
+Aarakocras
+Aboleths
+Angels
+Ankhegs
+Azers
+Banshees
+Basilisks
+Behir
+Beholders
+Blights
+Bugbears
+Bulettes
+Bullywugs
+Cambions
+Carrion Crawlers
+Centaurs
+Chimeras
+Chuul
+Cloakers
+Cockatrice
+Couatl
+Crawling Claws
+Cyclops
+Darkmantles
+Death Knights
+Demiliches
+Demons
+Devils
+Dinosaurs
+Displacer Beasts
+Doppelgangers
+Dracoliches
+Shadow Dragons
+Dragons
+Dragon Turtles
+Driders
+Dryads
+Duergar
+Elementals
+Drow
+Empyrean
+Ettercaps
+Ettin
+Faerie Dragons
+Flameskulls
+Flumphs
+Fomorians
+Fungi
+Galeb Duhr
+Gargoyles
+Genies
+Ghosts
+Ghouls
+Giants
+Gibbering Mouthers
+Gith
+Gnolls
+Svirfneblin
+Goblins
+Golems
+Gorgons
+Grell
+Grick
+Griffons
+Grimlock
+Hags
+Half-Dragons
+Harpies
+Hell Hounds
+Helmed Horrors
+Hippogriffs
+Hobgoblins
+Homunculus
+Hook Horrors
+Hydra
+Intellect Devourers
+Invisible Stalkers
+Jackalwere
+Kenkus
+Kobolds
+Kraken
+Kuo-toas
+Lamia
+Liches
+Lizardfolk
+Lycanthropes
+Magmin
+Manticores
+Medusas
+Mephits
+Merrow
+Mimics
+Mind Flayers
+Minotaurs
+Modrons
+Mummies
+Myconids
+Nagas
+Nightmares
+Ogres
+Oni
+Oozes
+Orcs
+Otyughs
+Owlbears
+Pegasi
+Piercers
+Pixies
+Pseudodragons
+Purple Worms
+Quaggoth
+Rakshasas
+Remorhazes
+Revenants
+Rocs
+Ropers
+Rust Monsters
+Sahuagins
+Salamanders
+Satyrs
+Scarecrows
+Shadows
+Shambling Mounds
+Shield Guardians
+Skeletons
+Slaadi
+Specters
+Sphinxes
+Sprites
+Stirges
+Succubi
+Incubi
+Tarrasque
+Thri-kreen
+Treants
+Troglodytes
+Trolls
+Umber Hulks
+Unicorns
+Vampires
+Water Weirds
+Wight
+Will-o'-wisps
+Wraiths
+Wyverns
+Xorn
+Yetis
+Yuan-ti
+Yogoloths
+Zombies
+Apes
+Awakened Trees
+Axe Beaks
+Baboons
+Badgers
+Bats
+Bears
+Blink Dogs
+Blood Hawks
+Boars
+Camels
+Cats
+Snakes
+Crabs
+Crocodiles
+Death Dogs
+Deer
+Dire Wolves
+Horses
+Eagles
+Elephants
+Elk
+Flying Snakes
+Frogs
+Goats
+Hawks
+Sharks
+Hyena
+Jackals
+Whales
+Lions
+Lizards
+Mammoths
+Mastiffs
+Mules
+Octopi
+Owls
+Panthers
+Phase Spiders
+Ponies
+Quipper
+Rats
+Ravens
+Rhinoceros
+Scorpions
+Sea Horse
+Spiders
+Vultures
+Weasels
+Winter Wolves
+Worg
+Accolytes
+Archmages
+Assassins
+Bandits
+Captains
+Berserkers
+Commoners
+Cultists
+Gladiators
+Guards
+Knights
+Mages
+Nobles
+Priests
+Scouts
+Spies
+Thugs
+Veterans
+Abjurers
+Alhoon
+Apprentices
+Archdruids
+Archers
+Aurochs
+Babau
+Banderhobbs
+Barghest
+Blackguards
+Bodaks
+Boggles
+Catoblepas
+Champions
+Conjurers
+Cows
+Darklings
+Devourers
+Diviners
+Dolphins
+Draegloth
+Elder Brains
+Enchanters
+Evokers
+Flail Snails
+Flinds
+Froghemoths
+Gauth
+Gazers
+Girallons
+Grung
+Illusionists
+Ki-rin
+Korred
+Leucrotta
+Necromancers
+Nilbogs
+Rothe
+Transmuters
+Vegepygmies
+Xvart
+Warlords
+Tortles
